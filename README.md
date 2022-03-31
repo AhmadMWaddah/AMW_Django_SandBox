@@ -23,5 +23,5 @@ This Bash Script is an Automation Tool To Make it More Easier For Django Develop
 ##### 8- Creating SuperUser.
 ##### 9- Added Folders For ( Media - Static - Templates ).
 ##### 10- Adding File .env
-##### 9- Showing Final Notes Configuration.
-##### 10- Runserver.
+##### 11- Showing Final Notes Configuration.
+##### 12- Runserver.
