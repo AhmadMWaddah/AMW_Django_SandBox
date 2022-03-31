@@ -9,6 +9,7 @@ This Bash Script is an Automation Tool To Make it More Easier For Django Develop
     Pillow
     psycopg2-binary
     python-decouple
+    django-cors-headers
     djangorestframework
     django-extensions
     django-rest-swagger
@@ -20,5 +21,7 @@ This Bash Script is an Automation Tool To Make it More Easier For Django Develop
 ##### 6- Creating Django Main App.
 ##### 7- Database Makemigrations and Migrate.
 ##### 8- Creating SuperUser.
+##### 9- Added Folders For ( Media - Static - Templates ).
+##### 10- Adding File .env
 ##### 9- Showing Final Notes Configuration.
 ##### 10- Runserver.
