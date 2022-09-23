@@ -2,7 +2,7 @@
 This Bash Script is an Automation Tool To Make it More Easier For Django Developers to Create New Projects, Without Wlaking Through All Steps Everytime They Need To Create New Project. 
 
 ## Description:
-### Get Directory Name and Django Apps Needed From The User.
+#### Get Directory Name and Django Apps Needed From The User.
 ### Make New Directory For Project as User Insert it.
 ### Creating Media Directory In Root Directory.
 ### Create ".env - .gitignore" Files In Root Directory.
