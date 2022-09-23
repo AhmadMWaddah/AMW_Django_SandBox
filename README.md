@@ -1,35 +1,20 @@
-# Automate_Create_Django_Project_Template
+# AMW_Django_SandBox
 This Bash Script is an Automation Tool To Make it More Easier For Django Developers to Create New Projects, Without Wlaking Through All Steps Everytime They Need To Create New Project. 
 
-### What's New in version 2.2:
-Changed style to seprate functions to make code easier.
-added script commad to add installed app into installed apps in settins.py file.
+## Description:
+### Get Directory Name and Django Apps Needed From The User.
+### Make New Directory For Project as User Insert it.
+### Creating Media Directory In Root Directory.
+### Create ".env - .gitignore" Files In Root Directory.
+### Create Vertual Environment and Activate it.
+### Install Some Packages With Pip3 and Freeze it Into requirements.txt File.
+### Create Django Project After Installing Django With Name 'project'.
+### Create Django Apps as Inserted By User.
+### Create urls.py File For Apps.
+### Create Templates Directory Under Each App.
+### Create Static Directory With Name 'Assets', Also SubDirectories For 'Images, Fonts, Styles, Scripts' For Each App. 
+### Add Installed Apps Into Project settins.py File.
 
 
-### Steps:
-##### 1- Creating New Directory.
-##### 2- Creating Virtual Environment Inside New Directory.
-##### 3- Installing Many Packages May Be Useful.
-    [django
-    wheel
-    Pillow
-    psycopg2-binary
-    python-decouple
-    django-cors-headers
-    djangorestframework
-    django-extensions
-    django-bulma
-    django-rest-swagger
-    django-adminactions
-    django-storages
-    django-allauth]
-##### 4- Creating requirements.txt File.
-##### 5- Creating Django Project.
-##### 6- Creating Django Main App.
-##### 7- Add Main App Into Installed Apps.
-##### 8- Database Makemigrations and Migrate.
-##### 9- Creating SuperUser.
-##### 10- Added Folders For ( Media - Static - Templates ).
-##### 11- Adding File .env
-##### 12- Showing Final Notes Configuration.
-##### 13- Runserver.
+Enjoy Testing It.
+Ahmd Wddh.
